@@ -19,11 +19,11 @@ comment:
 
 # Introduction to Git & GitHub
 
-This is your **course** initialization stub.
-
+![Cover Image](https://github.com/bpiereck/Images_GitTraining/blob/master/images/cover_intro.svg)
 
 
 ### slide 1
+
 
 1. Lists
 2. ordered or
