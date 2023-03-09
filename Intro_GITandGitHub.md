@@ -17,31 +17,19 @@ comment:
     3.Working with your history & logs; (4.) Working in a project: Branching & pull requests; (5.) During the workshop we also briefly discuss how you can setup a collaboration project.
 -->
 
-# Intro
+# Introduction to Git & GitHub
 
-![Cover Image](https://raw.githubusercontent.com/bpiereck/Images_GitTraining/master/images/cover_intro.svg)
-
-## Could you get it all working?
-
-* GitBash or Git in your terminal
-* Ungit (not essential)
-* MArkText editor
-* Setup git editor
-* SSH key (**VERY IMPORTANT**)
-<style>
-      "border: 1px solid black;
-      width: 250px; height: 40px;
-      text-align: center;"
-  </style>
-
-![HELP](https://raw.githubusercontent.com/bpiereck/Images_GitTraining/master/images/help.svg) <!--style = "height: 300px" -->
+![Cover Image](https://github.com/bpiereck/Images_GitTraining/blob/master/images/cover_intro.svg)
 
 
-## Slide 2 
-session
+### slide 1
 
-     --{{0}}--
-But you can also include other features such as spoken text.
+
+1. Lists
+2. ordered or
+
+   * unordered
+   * ones ...
 
 
 | Header 1   | Header 2   |
@@ -49,6 +37,15 @@ But you can also include other features such as spoken text.
 | Item 1     | Item 2     |
 
 
+Images:
+
+![images](https://farm2.static.flickr.com/1618/26701766821_7bea494826.jpg)
+
+
+### Slie 2 
+
+     --{{0}}--
+But you can also include other features such as spoken text.
 
       --{{1}}--
 part 1: Insert any kind of audio file:
